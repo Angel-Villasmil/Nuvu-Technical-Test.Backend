@@ -11,7 +11,7 @@
 	<groupId>cc.nuvu</groupId>
 	<artifactId>technical.test.backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>technical.test.backend</name>
 	<description>Demo Project for Nuvu Technical Test of Backend</description>
 	<properties>
