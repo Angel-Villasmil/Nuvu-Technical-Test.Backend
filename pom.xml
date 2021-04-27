@@ -11,7 +11,7 @@
 	<groupId>cc.nuvu</groupId>
 	<artifactId>technical.test.backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>technical.test.backend</name>
 	<description>Demo Project for Nuvu Technical Test of Backend</description>
 	<properties>
@@ -64,6 +64,11 @@
 		<dependency>
 		    <groupId>io.springfox</groupId>
 		    <artifactId>springfox-swagger-ui</artifactId>
+		    <version>3.0.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>io.springfox</groupId>
+		    <artifactId>springfox-boot-starter</artifactId>
 		    <version>3.0.0</version>
 		</dependency>
 	</dependencies>
