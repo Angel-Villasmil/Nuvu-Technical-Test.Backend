@@ -32,7 +32,8 @@ public class Application {
                     "/configuration/ui",
                     "/swagger-resources/**",
                     "/configuration/security",
-                    "/webjars/**");
+                    "/webjars/**",
+                    "/");
 	    }
 		
 		@Override
